@@ -14,6 +14,7 @@
 ![Главное меню](Screenshots/Main.jpg)
 ![Гараж](Screenshots/Garage.jpg)
 
+| Пример геймплея | Пример геймплея |
 |---|---|
 | ![Геймплей](Screenshots/Gameplay.jpg) | ![Геймплей1](Screenshots/Gameplay1.jpg) |
 

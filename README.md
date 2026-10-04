@@ -14,7 +14,7 @@
 ![Главное меню](Screenshots/Main.jpg)
 ![Гараж](Screenshots/Garage.jpg)
 
-
+|---|---|
 | ![Геймплей](Screenshots/Gameplay.jpg) | ![Геймплей1](Screenshots/Gameplay1.jpg) |
 
 ## GIF

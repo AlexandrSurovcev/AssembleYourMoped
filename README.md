@@ -11,11 +11,11 @@
 Каждая деталь имеет физику, точки крепления.
 
 ## Скриншоты / GIF
-![Главное меню](Screenshots/main.jpg)
+![Главное меню](Screenshots/Main.jpg)
 ![Гараж](Screenshots/Garage.jpg)
 ![Геймплей](Screenshots/Gameplay.jpg)
 ![Геймплей1](Screenshots/Gameplay1.jpg)
-![Динамическая смена дня и ночи](Screenshots/world.gif)
+![Динамическая смена дня и ночи](Screenshots/World.gif)
 ![Гараж](Screenshots/garage1.gif)
 ![Заправка](Screenshots/gasline.gif)
 ![Покраска](Screenshots/paint.gif)
